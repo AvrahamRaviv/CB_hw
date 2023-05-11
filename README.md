@@ -2,10 +2,6 @@
 
 This repository contains two Python files, CB_2_1 and CB_2_2, which address the connected sub-graphs homework questions. These programs are written in Python and can be run independently to perform different tasks related to sub-graph analysis.
 
-## Prerequisites
-
-To run the Python files, you need to have Python installed on your system. The code is compatible with Python 3.x versions. If you don't have Python installed, you can download it from the official Python website: [python.org/downloads](https://www.python.org/downloads/)
-
 ## File Descriptions
 
 - CB_2_1.py: This file generates all connected sub-graphs of a given size n and outputs the results to a textual file. It takes a positive integer n as input and generates all possible sub-graphs of size n.
@@ -20,16 +16,16 @@ To run the Python files, you need to have Python installed on your system. The c
 
 3. To run CB_2_1.py, use the following command:
 
-'''
+```
 python CB_2_1.py
-'''
+```
 
 Follow the prompts to enter a positive integer n. The program will generate all connected sub-graphs of size n and save the results to a file.
 
 4. To run CB_2_2.py, use the following command:
-'''
+```
 python CB_2_2.py
-'''
+```
 
 
 Follow the prompts to enter a positive integer n and provide a graph in the specified format. The program will identify sub-graphs of size n and count the number of instances for each motif, saving the results to a file.
