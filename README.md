@@ -32,7 +32,7 @@ Follow the prompts to enter a positive integer n and provide a graph in the spec
 
 ## Sample Outputs
 
-In the repository, you can find sample output files for each program, showcasing the results for different values of n. These files can be used as a reference to understand the expected format of the output.
+Under connected_subgraphs folder, you can find output files for each program, showcasing the results for different values of n (from 1 to 4). These files can be used as a reference to understand the expected format of the output.
 
 ## Maximal Computation Time
 
@@ -40,14 +40,14 @@ The maximal number n for which the programs can complete successfully within dif
 
 For question 1:
 
-- The maximal number n that can be completed within 1 hour of computing time may depend on your system's speed and resources.
+- The maximal number n that can be completed within 1 hour is 4.
 
-- Similarly, the maximal number n that can be completed within 2, 4, or 8 hours of computing time will vary.
+- The maximal number n that can be completed within 2 hour is 5.
 
-For question 2:
+- The maximal number n that can be completed within 4 hour is 5.
 
-- The computation time will depend on the size and complexity of the input graph. The maximal number n that can be completed within the given time limits may vary.
+- The maximal number n that can be completed within 8 hour is 6.
 
-Please note that these time limits are approximate and can vary based on the efficiency of your system and the complexity of the computations.
+
 
 Feel free to explore the code, modify it as needed, and provide your own input graphs to test the programs.
